@@ -3,6 +3,9 @@
 #include <MMsystem.h>
 #include <string>
 
+// ZAHIRUL ARIEF IRFAN 1201103516
+// MOUSA SUFIAN 1201102569
+
 using namespace std;
 
 class Display {
